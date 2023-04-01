@@ -1,0 +1,55 @@
+{
+    "nodes": [
+      {
+        "id": "node1",
+        "name": "Main Entrance",
+        "location": {
+          "type": "Point",
+          "coordinates": [-122.4189, 37.7752]
+        }
+      },
+      {
+        "id": "node2",
+        "name": "Elevator",
+        "location": {
+          "type": "Point",
+          "coordinates": [-122.4182, 37.7756]
+        }
+      },
+      {
+        "id": "node3",
+        "name": "Room 101",
+        "location": {
+          "type": "Point",
+          "coordinates": [-122.4176, 37.7761]
+        }
+      },
+      {
+        "id": "node4",
+        "name": "Room 102",
+        "location": {
+          "type": "Point",
+          "coordinates": [-122.4171, 37.7768]
+        }
+      }
+    ],
+    "waypoints": [
+      {
+        "id": "waypoint1",
+        "name": "Hallway",
+        "location": {
+          "type": "Point",
+          "coordinates": [-122.4186, 37.7754]
+        }
+      },
+      {
+        "id": "waypoint2",
+        "name": "Stairway to Third Floor",
+        "location": {
+          "type": "Point",
+          "coordinates": [-122.4187, 37.7753]
+        }
+      }
+    ]
+    
+}

@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59523036868717,
+                    23.107527312192374
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59548681062563,
+                    23.106574880761187
+                ],
+                "type": "Point"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59513298544681,
+                    23.10633602544867
+                ],
+                "type": "Point"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59483759011414,
+                    23.106628623148083
+                ],
+                "type": "Point"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59448051883365,
+                    23.106380810852713
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "E BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59419161570577,
+                    23.10668833688578
+                ],
+                "type": "Point"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59450973375601,
+                    23.10696899109726
+                ],
+                "type": "Point"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59421758452646,
+                    23.10729442982084
+                ],
+                "type": "Point"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59457465597086,
+                    23.107554183197905
+                ],
+                "type": "Point"
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59488952791949,
+                    23.107255616169184
+                ],
+                "type": "Point"
+            },
+            "id": 9
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "K BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59554199453262,
+                    23.10721083105689
+                ],
+                "type": "Point"
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L BLOCK"
+            },
+            "geometry": {
+                "coordinates": [
+                    72.59519790766171,
+                    23.106921220308493
+                ],
+                "type": "Point"
+            },
+            "id": 11
+        }
+    ]
+}

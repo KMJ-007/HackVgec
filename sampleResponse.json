@@ -1,0 +1,76 @@
+{
+    "start_location": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "end_location": {
+      "latitude": 37.7894,
+      "longitude": -122.4075
+    },
+    "path": [
+      {
+        "type": "node",
+        "id": "node1",
+        "name": "Main Entrance",
+        "location": {
+          "latitude": 37.7752,
+          "longitude": -122.4189
+        }
+      },
+      {
+        "type": "waypoint",
+        "id": "waypoint1",
+        "name": "Hallway",
+        "location": {
+          "latitude": 37.7754,
+          "longitude": -122.4186
+        }
+      },
+      {
+        "type": "node",
+        "id": "node2",
+        "name": "Elevator",
+        "location": {
+          "latitude": 37.7756,
+          "longitude": -122.4182
+        }
+      },
+      {
+        "type": "waypoint",
+        "id": "waypoint2",
+        "name": "Stairs",
+        "location": {
+          "latitude": 37.7758,
+          "longitude": -122.4179
+        }
+      },
+      {
+        "type": "node",
+        "id": "node3",
+        "name": "Room 101",
+        "location": {
+          "latitude": 37.7761,
+          "longitude": -122.4176
+        }
+      },
+      {
+        "type": "waypoint",
+        "id": "waypoint3",
+        "name": "Hallway",
+        "location": {
+          "latitude": 37.7764,
+          "longitude": -122.4174
+        }
+      },
+      {
+        "type": "node",
+        "id": "node4",
+        "name": "Room 102",
+        "location": {
+          "latitude": 37.7768,
+          "longitude": -122.4171
+        }
+      }
+    ]
+  }
+  
